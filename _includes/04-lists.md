@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Hotpot
+  * 重庆
+  * 北京
+  * 冰淇淋
+* Steak
+  * 不知道的名店
+  * 知道的小店
+  * 自己烧的哭着也要吃完

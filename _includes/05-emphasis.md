@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Awesome attributes
+
+**十九岁来一事无成**
+
+_阿西吧！干点事吧_
+
+✌️
